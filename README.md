@@ -2,7 +2,7 @@
 
 I'm a future Computer Science & Engineering graduate at the University of Ioannina, passionate about Robotics, Software Development, Computer Vision, and building reliable, scalable software.
 
-- Looking for:  *Junior Software Engineer / Back-end / Computer Vision opportunities in Ioannina or remote.*
+- Looking for:  *Junior Software Engineer / Back-end / Computer Vision / Robotics Engineer opportunities in Ioannina or remote.*
 - Reach me at: *[LinkedIn](https://www.linkedin.com/in/lilian-charalampakos/)*
 
 ---
